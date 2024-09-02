@@ -23,8 +23,8 @@ This screenshot represents the output of my code.
 
 ### Links
 
-- Solution URL: [https://github.com/Coder-Sadik/qr-code-component-main](https://github.com/Coder-Sadik/qr-code-component-main)
-- Live Site URL: [https://coder-sadik.github.io/qr-code-component-main/](https://coder-sadik.github.io/qr-code-component-main/)
+- Solution URL: [https://github.com/Coder-Sadik/social-links-profile-main](https://github.com/Coder-Sadik/social-links-profile-main)
+- Live Site URL: [https://coder-sadik.github.io/social-links-profile-main/#](https://coder-sadik.github.io/social-links-profile-main/#)
 
 ## My process
 
